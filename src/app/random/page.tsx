@@ -50,6 +50,12 @@ export default function Page() {
         >
           Generate new UUID
         </button>
+        <a
+          href="/code/random"
+          className="absolute top-2 right-2 font-bold text-gray-500 p-4 hover:underline"
+        >
+          View Source
+        </a>
       </div>
     </div>
   );
