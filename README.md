@@ -15,8 +15,8 @@ To get started with any of the projects, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/playground-repo.git
-   cd playground-repo
+   git clone https://github.com/noonosh/nextjs-playground.git
+   cd nextjs-playground
    ```
 
 2. Install dependencies:
